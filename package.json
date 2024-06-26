@@ -1,0 +1,27 @@
+{
+  "name": "jest",
+  "version": "1.0.0",
+  "description": "aprendiendo jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camiloalvarezO/Jest.git"
+  },
+  "keywords": [
+    "Camilo",
+    "Alvarez"
+  ],
+  "author": "Camilo Alvarez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/camiloalvarezO/Jest/issues"
+  },
+  "homepage": "https://github.com/camiloalvarezO/Jest#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.24.7",
+    "jest": "^29.7.0"
+  }
+}
