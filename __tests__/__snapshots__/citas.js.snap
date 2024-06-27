@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`prueba a la clase de citas creación y validación de citas 1`] = `
+Citas {
+  "citas": [
+    {
+      "fecha": "24-06-2024",
+      "hora": "05:00",
+      "id": 1719464283133,
+      "mascota": "gatito",
+      "propietario": "camilo",
+      "sintomas": "dormido",
+      "telefono": "30214",
+    },
+  ],
+}
+`;
